@@ -1,11 +1,12 @@
-my_list = [ "192.168.0.5", 5060, "UP
-        
-        
-        
-        West of House
+#!/usr/bin/env python3
 
-        You are standing in an open field west of a white hose, 
+my_list = [ "192.168.0.5", 5060, "UP" ]
 
-        There is a small mailbox here.
+print("192.168.0.5" + "my_list[0])
+
+        print("5060")+ str(my_list[1])
+
+        print(UP):"+ my_list[2])
+/bin/bash: wq: command not found
 
 
